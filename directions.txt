@@ -1,0 +1,128 @@
+I. Variables & Datatypes
+To answer these questions, you can add them in a multiline comment section inside of script.js
+like this:
+
+/* 1. How do we assign a value to a variable? A. With the assignment operator 2. How do we change the value of a... ... */
+
+
+
+A. Q + A
+1. How do we assign a value to a variable?
+
+var x = 5;
+
+
+2. How do we change the value of a variable?
+
+var x = 5;
+
+5 = "Get cookies"
+
+
+3. How do we assign an existing variable to a new variable?
+
+
+
+4. Remind me, what are declare, assign, and define?
+
+
+
+
+5. What is pseudocoding and why should you do it?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
+
+
+
+B. Strings
+For all other questions that involve writing code, you can solve them via the following instructions.
+1. Create a variable called firstVariable
+
+var var = 
+
+
+
+
+2. Assign it the value of the string "Hello World"
+3. Change the value of this variable to some number
+4. Store the value of firstVariablein a new variable called secondVariable
+5. Change the value of secondVariableto any string.
+6. What is the value of firstVariable?
+7. Create a variable called yourNameand set it equal to your name as a string. Then, write an expression that takes the string "Hello, my name is " and the variable yourNameso that it returns a new string with them concatenated.
+ex: Hello, my name is Jean Valjean
+
+
+
+C. Booleans
+- Using the provided variable definitions, replace the blanks so that all log statements print true in the console. Answers should be all be valid JS syntax and not weird things that don't make sense but happen to print true to the console
+
+
+**** Picture HERE
+
+
+D. The farm
+1. Declare a variable animal. Set it to be either "cow" or something else
+2. Write code that will print out "mooooo" if the it is equal to cow
+3. Change your code so that if the variable animalis anything other than a cow, it will print "Hey! You're not a cow."
+4. Commit
+
+
+
+E. Driver's Ed
+1. Make a variable that holds a person's age; be semantic
+2. Write code that will print out "Here are the keys!", if the age is 16 years or older, or, if the age is younger than 16, a message should print "Sorry, you're too young."
+
+
+
+II. Loops
+Remember: USE letwhen you initialize your for loops!
+This is GOOD: for(let i = 0; i < 100; i++)
+This is NO GOOD: for(i = 0; i < 100; i++)
+
+
+
+A. The basics
+1. Write a loop that will print out all the numbers from 0 to 10, inclusive
+2. Write a loop that will print out all the numbers from 10 up to and including 400
+3. Write a loop that will print out every third number starting with 12 and going no higher than 4000
+
+
+
+B. Get even
+1. Print out the numbers that are within the range of 1 - 100
+2. Adjust your code to add a message next to even numbers only that says: "<-- is an even number"
+C. Give me Five
+1. For the numbers 0 - 100, print out "I found a number. High five!" if the number is a multiple of five
+
+Example Output:
+
+I found a 5. High five!
+I found a 10. High five!
+
+
+1. Add to the code from above to print out "I found a number. Three is a crowd" if the number is a multiple of three
+
+Example Output:
+
+I found a 3. Three is a crowd
+I found a 5. High five!
+I found a 6. Three is a crowd
+I found a 9. Three is a crowd
+I found a 10. High five!
+
+
+1. For numbers divisible by both three and five, be sure your code prints both messages
+Sent from my iPhone
